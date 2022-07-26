@@ -1,8 +1,8 @@
-## Facade Pattern in Swift
+# Facade Pattern in Swift
 
-# Simple example of Facade pattern written in Swift
+## Simple example of Facade pattern written in Swift
 
-# You can also download the demo playground project.
+## You can also download the demo playground project.
 
     import UIKit
     
